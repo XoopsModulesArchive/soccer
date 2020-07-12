@@ -1,0 +1,7 @@
+<p>
+<img src="images/soccer3.jpg" alt="">
+<br>
+<b><font size="5" color="#FF0000">Watch World Cup at Virtual Gamer</font></b></font><b><font size="5" color="#FF0000">
+</font></b> </p>
+
+<p>More info: <a href="http://www.virtual-gamer.org/">www.virtual-gamer.org/</a></p>
